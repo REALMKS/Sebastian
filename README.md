@@ -8,7 +8,6 @@ Zero-allocation parallel-array engine · Trove style · Janitor named keys · Ma
 
 [![Luau](https://img.shields.io/badge/Luau-strict-blue?style=flat-square)](https://luau-lang.org)
 [![Version](https://img.shields.io/badge/version-1.0-green?style=flat-square)](#)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](#license)
 
 </div>
 
