@@ -69,13 +69,6 @@ src/
     └── Sebastian.lua  →  ReplicatedStorage.Sebastian
 ```
 
-**Option C — Wally** *(coming soon)*
-
-```toml
-[dependencies]
-Sebastian = "ISonicality/sebastian@1.0.0"
-```
-
 Then require it anywhere:
 
 ```lua
