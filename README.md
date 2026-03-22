@@ -553,7 +553,7 @@ If you're migrating from Trove, Janitor, or Maid, these aliases work out of the 
 | `trove:AttachToInstance(inst)` | `s:Link(inst)` ✅ |
 | `trove:Extend()` | `s:Extend()` ✅ |
 | `trove:Clean()` | `s:Clean()` ✅ |
-| `janitor:Add(obj, m, key)` | `s:Add(obj, key, m)` ✅ |
+| `janitor:Add(obj, m, key)` | `s:Add(obj, m, key)` ✅ |
 | `janitor:Get(key)` | `s:Get(key)` ✅ |
 | `janitor:Remove(key)` | `s:Remove(key)` ✅ |
 | `janitor:LinkToInstance(inst)` | `s:Link(inst)` ✅ |
