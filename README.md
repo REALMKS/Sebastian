@@ -59,7 +59,7 @@ s:Destroy()
 
 **Option A — Copy the file**
 
-Copy `Sebastian.lua` into your project as a `ModuleScript`, e.g. `ReplicatedStorage.Sebastian`.
+Copy `Sebastian/Init.lua` into your project as a `ModuleScript`, e.g. `ReplicatedStorage.Sebastian`.
 
 **Option B — Rojo**
 
