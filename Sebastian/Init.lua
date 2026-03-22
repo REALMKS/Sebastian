@@ -136,7 +136,7 @@ export type Sebastian = {
 	--- s:Add(tween, "Cancel")
 	--- s:Add(part, "Destroy", "Floor")
 	--- ```
-	Add: (self: Sebastian, object: any, key: any?, cleanupMethod: (string | boolean)?) -> any,
+	Add: (self: Sebastian, object: any, cleanupMethod: (string | boolean)?, key: any?) -> any,
 
 	--- Quick-add shorthand. Identical to `:Add(object)`.
 	---
